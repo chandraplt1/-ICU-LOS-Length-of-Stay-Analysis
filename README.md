@@ -12,11 +12,4 @@ To analyze how factors such as patient age and gender impact the length of ICU s
 - **Female patients** show a slightly higher median LOS than males.
 - The **majority of patients** had **short stays** (<2 days), especially in younger age groups.
 
-## 📁 Folder Structure
 
-ICU_LOS_Analysis/
-├── data/ # Contains CSVs (PATIENTS.csv, ICUSTAYS.csv)
-├── notebooks/ # Jupyter Notebook with code & visuals
-├── outputs/ # Optional: Export plots as .png here
-├── README.md
-├── requirements.txt
